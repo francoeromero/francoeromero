@@ -14,10 +14,10 @@ Git / Github <br>
 English - Spanish 
 
 ## Others Skills
-AutoCad / Revit
-3Dsmax / Sketchup / Blender
-Adobe Premier / After effects
-Lumion / Unreal Engine
+AutoCad / Revit <br>
+3Dsmax / Sketchup / Blender<br>
+Adobe Premier / After effects<br>
+Lumion / Unreal Engine<br>
 
 ## Contact
 By email archdev.info@gmail.com
