@@ -13,6 +13,12 @@ HTML / CSS / JavaScript <br>
 Git / Github <br>
 English - Spanish 
 
+## Others Skills
+AutoCad / Revit
+3Dsmax / Sketchup / Blender
+Adobe Premier / After effects
+Lumion / Unreal Engine
+
 ## Contact
 By email archdev.info@gmail.com
 
