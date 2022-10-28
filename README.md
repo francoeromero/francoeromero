@@ -2,7 +2,7 @@
 <h1 align="center">Fran Romero</h1>
  
 
-  # Skills
+  <h5>Skills</h5>
   
 
   # Contact
