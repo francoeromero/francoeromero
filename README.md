@@ -1,4 +1,4 @@
-## <p align="center"> Hi, I'm Fran 🙋‍♂️ </p>
+## Hi, I'm Fran 🙋‍♂️ 
 
 Currently in my career as a frontend developer.<br>
 
