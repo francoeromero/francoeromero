@@ -3,8 +3,7 @@
  
 
  
- <h5>Skills</h5>
- <hr>
+ Skills
  
 
   # Contact
