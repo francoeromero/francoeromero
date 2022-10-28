@@ -1,7 +1,5 @@
 ## <p align="center"> Hi, I'm Fran 🙋‍♂️ </p>
 
-I'm Fran Romero from Argentina.
-
 Currently in my career as a frontend developer.<br>
 
 Extremely motivated and self-taught to constantly develop my skills and grow professionally. I am looking to master new skills and work in a team with the same goals.<br>
