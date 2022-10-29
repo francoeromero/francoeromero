@@ -1,6 +1,4 @@
-## Hi, I'm Fran 🙋‍♂️ 
-
-I'm from Argentina
+## Hi, I'm Fran 🙋‍♂️ 💻
 
 Currently in my career as a frontend developer.<br>
 
