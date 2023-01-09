@@ -12,6 +12,7 @@ Git / Github <br>
 English - Spanish 
 
 ## ⚙ Others Skills
+<img src="[https://cdn-icons-png.flaticon.com/512/5968/5968292.png](https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png)" alt="autocad" width="28"> AutoCad
 AutoCad / Revit <br>
 3Dsmax / Sketchup / Blender<br>
 Adobe Premier / After effects<br>
