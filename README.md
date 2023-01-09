@@ -26,7 +26,6 @@ Lumion / Unreal Engine<br>
 
 
 
-By email archdev.info@gmail.com
 
 
 
