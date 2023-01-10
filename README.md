@@ -36,6 +36,10 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 ## ⚙ Others Skills
 
 <div style="display: flex;">
+   <a href="#" style="cursor: pointer;">
+<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-95022D9B64-seeklogo.com.png" alt="autocad" width="38"> 
+  </a>
+  
  <a href="#" style="cursor: pointer;">
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="38"> 
   </a>
@@ -68,10 +72,10 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 ## Contact
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/franco-ezequiel-romero-38ab541a3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@franromero-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:franromeroeze@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-franromeroeze@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+<!-- </p> -->
 
 
 
