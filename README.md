@@ -7,9 +7,31 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 <!-- I have a [YouTube channel](https://www.youtube.com/channel/UCj8VgHtcox46beRA0DcoPDA/) (in Spanish)  -->
 
 ## ⚙ Skills 
-HTML / CSS / JavaScript <br>
-Git / Github <br>
-English - Spanish 
+
+<div style="display: flex;">
+  <a href="#" style="cursor: pointer;">
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" width="38"> 
+  </a>
+ 
+  <a href="#" style="cursor: pointer;">
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="" width="48"> 
+  </a>
+ 
+  <a href="#" style="cursor: pointer;">
+     <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="" width="38"> 
+  </a>
+ 
+  <a href="#" style="cursor: pointer;">
+     <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="" width="38"> 
+  </a>
+ 
+  <a href="#" style="cursor: pointer;">
+     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" width="38"> 
+  </a>
+</div>
+
+
+
 
 ## ⚙ Others Skills
 
