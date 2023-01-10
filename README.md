@@ -12,6 +12,8 @@ Git / Github <br>
 English - Spanish 
 
 ## ⚙ Others Skills
+
+<div style="display: flex;">
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="28"> 
 <img src="https://mashyo.com/wp-content/uploads/2022/04/make-things-transparent-in-revit.png" alt="revit" width="28"> 
  <img src="https://e7.pngegg.com/pngimages/993/910/png-clipart-autodesk-3ds-max-3ds-physx-3d-computer-graphics-others-miscellaneous-angle.png" alt="revit" width="28"> 
@@ -23,7 +25,7 @@ English - Spanish
  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="" width="28"> 
  <img src="" alt="" width="28">
  <img src="" alt="" width="28">
-
+</div>
 
 ## Contact
 
