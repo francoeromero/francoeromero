@@ -37,7 +37,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <div style="display: flex;">
    <a href="#" style="cursor: pointer;">
-<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-95022D9B64-seeklogo.com.png" alt="autocad" width="38"> 
+<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-95022D9B64-seeklogo.com.png" alt="autocad" width="30"> 
   </a>
   
  <a href="#" style="cursor: pointer;">
