@@ -1,6 +1,6 @@
 
 
- <h2>Hi, I'm Fran 🙋‍♂️ 💻 <img align="right" src="https://komarev.com/ghpvc/?username=franromeroe&label=Views&color=c8ff00&style=flat-square" alt="franromeroe" />  </h2>
+ <h2>Hi, I'm Fran 🙋‍♂️ 💻 <img align="right" src="https://komarev.com/ghpvc/?username=franromeroe&label=Views&color=080707&style=flat-square" alt="franromeroe" />  </h2>
  
 Currently in my career as a frontend developer.<br> 
 
