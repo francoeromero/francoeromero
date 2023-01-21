@@ -79,7 +79,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@francoezequielromero-blue?style=flat&logo=linkedin" style="margin-right: 50px;">
 </a>
 <a href="mailto:franromeroeze@gmail.com" style="margin-right: 50px;">
-  <img alt="Email" src="https://img.shields.io/badge/Email-franromeroeze@gmail.com-blue?style=flat&logo=gmail" style="margin-right: 50px;">
+  <img alt="Email" src="https://img.shields.io/badge/Email-francoeromero.m@gmail.com-blue?style=flat&logo=gmail" style="margin-right: 50px;">
 </a>
  </p>
 
