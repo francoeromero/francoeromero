@@ -23,16 +23,23 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
   </a>
  
   <a href="#" style="cursor: pointer;">
-     <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="" width="38"> 
+     <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="Js" width="38"> 
+  </a>
+  <a href="#" style="cursor: pointer;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45"> 
+  </a>
+ 
+ 
+  <a href="#" style="cursor: pointer;">
+     <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="38"> 
   </a>
  
   <a href="#" style="cursor: pointer;">
-     <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="" width="38"> 
+     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="38"> 
   </a>
  
-  <a href="#" style="cursor: pointer;">
-     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" width="38"> 
-  </a>
+ 
+ 
 </div>
 
 
