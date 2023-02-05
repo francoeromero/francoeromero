@@ -85,12 +85,12 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 ## Certificates
 <div style="display: flex;">
  
-<a style="display: flex; justify-content: center; align-items: center; flex-direction: column;" href="https://www.freecodecamp.org/certification/franromero/responsive-web-design" target="_blank" style="margin-right: 50px;">
-  <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p>Responsive Web Design - Freecodecamp</p>
+<a style="display: flex; justify-content: center; align-items: center; flex-direction: column; color: white;" href="https://www.freecodecamp.org/certification/franromero/responsive-web-design" target="_blank" style="margin-right: 50px;">
+  <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p style="color: white;">Responsive Web Design - Freecodecamp</p>
 </a> 
  
- <a style="display: flex; justify-content: center; align-items: center; flex-direction: column;" href="https://www.freecodecamp.org/certification/franromero/javascript-algorithms-and-data-structures" target="_blank" style="margin-right: 50px;">
-  <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p>JavaScript Algorithms and Data Structures -Freecodecamp</p>
+ <a style="display: flex; justify-content: center; align-items: center; flex-direction: column; color: white;" href="https://www.freecodecamp.org/certification/franromero/javascript-algorithms-and-data-structures" target="_blank" style="margin-right: 50px;">
+  <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p style="color: white;">JavaScript Algorithms and Data Structures -Freecodecamp</p>
 </a> 
  
  </div>
