@@ -82,11 +82,24 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
  
 </div>
 
+## Certificates
+<div style="display: flex;">
+ 
+<a style="display: flex; justify-content: center; align-items: center; flex-direction: column;" href="https://www.freecodecamp.org/certification/franromero/responsive-web-design" target="_blank" style="margin-right: 50px;">
+  <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p>Responsive Web Design - Freecodecamp</p>
+</a> 
+ 
+ <a style="display: flex; justify-content: center; align-items: center; flex-direction: column;" href="https://www.freecodecamp.org/certification/franromero/javascript-algorithms-and-data-structures" target="_blank" style="margin-right: 50px;">
+  <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p>JavaScript Algorithms and Data Structures -Freecodecamp</p>
+</a> 
+ 
+ </div>
+
 ## Contact
 
  <p > 
 <a href="https://www.linkedin.com/in/franco-ezequiel-romero-38ab541a3/" target="_blank" style="margin-right: 50px;">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@francoezequielromero-blue?style=flat&logo=linkedin" style="margin-right: 50px;">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@francoezequielromero-blue?style=flat&logo=linkedin" style="margin-right: 50px;"> 
 </a>
 <a href="mailto:franromeroeze@gmail.com" style="margin-right: 50px;">
   <img alt="Email" src="https://img.shields.io/badge/Email-francoeromero.m@gmail.com-blue?style=flat&logo=gmail" style="margin-right: 50px;">
