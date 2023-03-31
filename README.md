@@ -49,14 +49,14 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <div style="display: flex;">
    <a href="#" style="cursor: pointer;">
-<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-95022D9B64-seeklogo.com.png" alt="autocad" width="30"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Adobe_Photoshop_CS5_icon.png/776px-Adobe_Photoshop_CS5_icon.png" alt="psd" width="30"> 
   </a>
   
  <a href="#" style="cursor: pointer;">
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="38"> 
   </a>
  <a href="#" style="cursor: pointer;">
-<img src="https://mashyo.com/wp-content/uploads/2022/04/make-things-transparent-in-revit.png"  alt="revit" width="38"> 
+<img src="https://mashyo.com/wp-content/uploads/2022/04/make-things-transparent-in-revit.png"  alt="revit" width="35"> 
   </a>
  <a href="#" style="cursor: pointer;">
  <img src="https://e7.pngegg.com/pngimages/993/910/png-clipart-autodesk-3ds-max-3ds-physx-3d-computer-graphics-others-miscellaneous-angle.png" alt="revit" width="38"> 
