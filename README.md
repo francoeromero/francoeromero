@@ -45,7 +45,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 
 
-## ⚙ Others Skills
+## ⚙ Design skills
 
 <div style="display: flex;">
    <a href="#" style="cursor: pointer;">
