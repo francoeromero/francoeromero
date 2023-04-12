@@ -1,5 +1,5 @@
 
-
+<img src="./img/portada.jpg">
  <h2>Franco E. Romero 🌐
  <a href="https://francoeromero.github.io" target="_blank">francoeromero.github.io</a>
  <img align="right" src="https://komarev.com/ghpvc/?username=franromeroe&label=Views&color=080707&style=flat-square" alt="franromeroe" />  </h2>
