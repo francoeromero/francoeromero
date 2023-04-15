@@ -16,18 +16,23 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <div style="display: flex;">
   <a href="#" style="cursor: pointer;">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" width="38"> 
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="38"> 
   </a>
  
   <a href="#" style="cursor: pointer;">
-     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="" width="48"> 
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="48"> 
   </a>
  
   <a href="#" style="cursor: pointer;">
-     <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="Js" width="38"> 
+     <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JS" width="38"> 
   </a>
   <a href="#" style="cursor: pointer;">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45"> 
+  </a>
+ 
+ 
+  <a href="#" style="cursor: pointer;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="PYTHON" width="38"> 
   </a>
  
  
