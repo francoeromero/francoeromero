@@ -103,7 +103,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
   <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p style="color: white;">HTML CSS - OpenBootcamp</p>
 </a>  
  
- <a style="display: flex; justify-content: center; align-items: center; flex-direction: column; color: white;" href="https://storage.googleapis.com/openvitae-prod/diplomas%2F591438d4-0278-4983-bbd8-46efacdc33b4.pdf" target="_blank" style="margin-right: 50px;">
+ <a style="display: flex; justify-content: center; align-items: center; flex-direction: column; color: white;" href="https://community.open-bootcamp.com/user/francoeromero/certificaciones/a58734f1-2684-43a9-aca7-1783f56cb990" target="_blank" style="margin-right: 50px;">
   <img src="https://cdn.pixabay.com/photo/2022/01/03/19/03/certificate-6913406_960_720.png" width="38"> <p style="color: white;">JavaScript - OpenBootcamp</p>
 </a>  
  
