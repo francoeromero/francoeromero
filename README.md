@@ -15,6 +15,8 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 ## ⚙ Skills 
 
 <div style="display: flex;">
+
+<!--
   <a href="#" style="cursor: pointer;">
      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="38"> 
   </a>
@@ -22,12 +24,20 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
   <a href="#" style="cursor: pointer;">
      <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="48"> 
   </a>
- 
+-->
   <a href="#" style="cursor: pointer;">
      <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JS" width="38"> 
   </a>
   <a href="#" style="cursor: pointer;">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45"> 
+  </a>
+
+  <a href="#" style="cursor: pointer;">
+     <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="SASS" width="40"> 
+  </a>
+
+   <a href="#" style="cursor: pointer;">
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="REACT" width="40"> 
   </a>
  
  
