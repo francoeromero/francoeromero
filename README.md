@@ -12,7 +12,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <!-- I have a [YouTube channel](https://www.youtube.com/channel/UCj8VgHtcox46beRA0DcoPDA/) (in Spanish)  -->
 
-## ⚙ Skills 
+## ⚙ Skills Front-End
 
 <div style="display: flex;">
 
@@ -39,17 +39,26 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
    <a href="#" style="cursor: pointer;">
      <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="REACT" width="40"> 
   </a>
- 
- 
-  <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="PYTHON" width="38"> 
+    <a href="#" style="cursor: pointer;">
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="38"> 
   </a>
  
- 
   <a href="#" style="cursor: pointer;">
-     <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="38"> 
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="50"> 
   </a>
  
+ ## ⚙ Skills Back-End
+  <a href="#" style="cursor: pointer;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="SQL" width="58" height="40"> 
+  </a>
+  <a href="#" style="cursor: pointer;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="58" height="40"> 
+  </a>
+  
+  <a href="#" style="cursor: pointer;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="PYTHON" width="38"  > 
+  </a>
+
   <a href="#" style="cursor: pointer;">
      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="38"> 
   </a>
@@ -67,6 +76,11 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
    <a href="#" style="cursor: pointer;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Adobe_Photoshop_CS5_icon.png/776px-Adobe_Photoshop_CS5_icon.png" alt="psd" width="30"> 
   </a>
+   <a href="#" style="cursor: pointer;">
+ <img src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png" alt="PREMIER" height="32"> 
+  </a>
+ <a href="#" style="cursor: pointer;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="AFTER" width="28"> 
   
  <a href="#" style="cursor: pointer;">
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="38"> 
@@ -83,17 +97,13 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
  <a href="#" style="cursor: pointer;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="" width="30">  
   </a>
- <a href="#" style="cursor: pointer;">
- <img src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png" alt="" height="32"> 
+
   </a>
  <a href="#" style="cursor: pointer;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="" width="28"> 
+ <img src="https://seeklogo.com/images/L/lumion-3d-logo-948AF388BD-seeklogo.com.png" alt="LUMION" width="25">
   </a>
  <a href="#" style="cursor: pointer;">
- <img src="https://seeklogo.com/images/L/lumion-3d-logo-948AF388BD-seeklogo.com.png" alt="" width="25">
-  </a>
- <a href="#" style="cursor: pointer;">
- <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="" width="38"> 
+ <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="UNREAL" width="38"> 
   </a>
  
 </div>
