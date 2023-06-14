@@ -49,10 +49,10 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
  
  ## ⚙ Skills Back-End
   <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="SQL" width="58" height="40"> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="58" height="45"> 
   </a>
   <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="58" height="40"> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="65" height="40"> 
   </a>
   
   <a href="#" style="cursor: pointer;">
