@@ -5,7 +5,14 @@
  <a href="https://francoeromero.github.io" target="_blank">francoeromero.github.io</a>
  <img align="right" src="https://komarev.com/ghpvc/?username=franromeroe&label=Views&color=080707&style=flat-square" alt="franromeroe" />  </h2>
 
- 
+ <p > 
+<a href="https://www.linkedin.com/in/franco-ezequiel-romero-38ab541a3/" target="_blank" style="margin-right: 50px;">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@francoezequielromero-blue?style=flat&logo=linkedin" style="margin-right: 50px;"> 
+</a>
+<a href="mailto:franromeroeze@gmail.com" style="margin-right: 50px;">
+  <img alt="Email" src="https://img.shields.io/badge/Email-francoeromero.m@gmail.com-blue?style=flat&logo=gmail" style="margin-right: 50px;">
+</a>
+ </p>
 Currently in my career as a software developer.<br> 
 
 Extremely motivated and self-taught to constantly develop my skills and grow professionally. I am looking to master new skills and work in a team with the same goals.<br>
@@ -132,17 +139,6 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 </a>  
  
  </div>
-
-## Contact
-
- <p > 
-<a href="https://www.linkedin.com/in/franco-ezequiel-romero-38ab541a3/" target="_blank" style="margin-right: 50px;">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@francoezequielromero-blue?style=flat&logo=linkedin" style="margin-right: 50px;"> 
-</a>
-<a href="mailto:franromeroeze@gmail.com" style="margin-right: 50px;">
-  <img alt="Email" src="https://img.shields.io/badge/Email-francoeromero.m@gmail.com-blue?style=flat&logo=gmail" style="margin-right: 50px;">
-</a>
- </p>
 
 
 
