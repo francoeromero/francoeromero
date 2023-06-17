@@ -19,7 +19,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <!-- I have a [YouTube channel](https://www.youtube.com/channel/UCj8VgHtcox46beRA0DcoPDA/) (in Spanish)  -->
 
-## ⚙ Skills Front-End
+## ⚙ Front-End skills
 
 <div style="display: flex;">
 
@@ -54,7 +54,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
      <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="50"> 
   </a>
  
- ## ⚙ Skills Back-End
+ ## ⚙ Back-End skills
   <a href="#" style="cursor: pointer;">
      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="58" height="45"> 
   </a>
