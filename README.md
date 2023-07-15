@@ -32,41 +32,41 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
   </a>
 -->
   <a href="#" style="cursor: pointer;">
-     <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JS" width="38"> 
+     <img src="https://skillicons.dev/icons?i=js" alt="JS" > 
   </a>
   <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45"> 
+     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"> 
   </a>
 
   <a href="#" style="cursor: pointer;">
-     <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="SASS" width="40"> 
+     <img src="https://skillicons.dev/icons?i=sass" alt="SASS" > 
   </a>
 
    <a href="#" style="cursor: pointer;">
-     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="REACT" width="40"> 
+     <img src="https://skillicons.dev/icons?i=react" alt="REACT"> 
   </a>
     <a href="#" style="cursor: pointer;">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="38"> 
+     <img src="https://skillicons.dev/icons?i=html" alt="HTML" > 
   </a>
  
   <a href="#" style="cursor: pointer;">
-     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="50"> 
+     <img src="https://skillicons.dev/icons?i=css" alt="CSS"> 
   </a>
  
  ## ⚙ Back-End skills
   <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="58" height="45"> 
+     <img src="https://skillicons.dev/icons?i=nodejs" alt="node"> 
   </a>
   <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="65" height="40"> 
+     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL"> 
   </a>
   
   <a href="#" style="cursor: pointer;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="PYTHON" width="38"  > 
+     <img src="https://skillicons.dev/icons?i=python" alt="PYTHON" > 
   </a>
 
   <a href="#" style="cursor: pointer;">
-     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="38"> 
+     <img src="https://skillicons.dev/icons?i=git" alt="GIT" > 
   </a>
  
  
@@ -80,37 +80,40 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <div style="display: flex;">
    <a href="#" style="cursor: pointer;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Adobe_Photoshop_CS5_icon.png/776px-Adobe_Photoshop_CS5_icon.png" alt="psd" width="30"> 
+<img src="https://skillicons.dev/icons?i=ps" alt="psd"> 
   </a>
    <a href="#" style="cursor: pointer;">
- <img src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png" alt="PREMIER" height="32"> 
+ <img src="https://skillicons.dev/icons?i=pr" alt="PREMIER"> 
   </a>
  <a href="#" style="cursor: pointer;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="AFTER" width="28"> 
+ <img src="https://skillicons.dev/icons?i=ae" alt="AFTER" > 
   
  <a href="#" style="cursor: pointer;">
-<img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="38"> 
-  </a>
- <a href="#" style="cursor: pointer;">
-<img src="https://mashyo.com/wp-content/uploads/2022/04/make-things-transparent-in-revit.png"  alt="revit" width="35"> 
-  </a>
- <a href="#" style="cursor: pointer;">
- <img src="https://e7.pngegg.com/pngimages/993/910/png-clipart-autodesk-3ds-max-3ds-physx-3d-computer-graphics-others-miscellaneous-angle.png" alt="revit" width="38"> 
-  </a>
- <a href="#" style="cursor: pointer;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/SketchUp-Logo.png" alt="" width="28"> 
-  </a>
- <a href="#" style="cursor: pointer;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="" width="30">  
+<img src="https://skillicons.dev/icons?i=autocad" alt="autocad"> 
   </a>
 
+
+ <a href="#" style="cursor: pointer;">
+ <img src="https://skillicons.dev/icons?i=sketchup" alt="SKETCHUP"> 
   </a>
  <a href="#" style="cursor: pointer;">
- <img src="https://seeklogo.com/images/L/lumion-3d-logo-948AF388BD-seeklogo.com.png" alt="LUMION" width="25">
+ <img src="https://skillicons.dev/icons?i=blender" alt="BLENDER">  
+  </a>
+
+   <a href="#" style="cursor: pointer;">
+ <img src="https://skillicons.dev/icons?i=unreal" alt="UNREAL"> 
   </a>
  <a href="#" style="cursor: pointer;">
- <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="UNREAL" width="38"> 
+ <img src="https://e7.pngegg.com/pngimages/993/910/png-clipart-autodesk-3ds-max-3ds-physx-3d-computer-graphics-others-miscellaneous-angle.png" alt="3dsmax"  width="45" height="45"> 
   </a>
+ <a href="#" style="cursor: pointer;">
+<img src="https://mashyo.com/wp-content/uploads/2022/04/make-things-transparent-in-revit.png" alt="revit" width="45" height="45"> 
+  </a>
+  </a>
+ <a href="#" style="cursor: pointer;">
+ <img src="https://seeklogo.com/images/L/lumion-3d-logo-948AF388BD-seeklogo.com.png" alt="LUMION" width="45" height="45">
+  </a>
+
  
 </div>
 
