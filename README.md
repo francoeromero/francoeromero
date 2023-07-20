@@ -80,13 +80,16 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 
 <div style="display: flex;">
    <a href="#" style="cursor: pointer;">
-<img src="https://skillicons.dev/icons?i=ps" alt="psd"> 
+<img src="https://skillicons.dev/icons?i=ps" alt="PSD"> 
   </a>
+
+ <a href="#" style="cursor: pointer;">
+ <img src="https://skillicons.dev/icons?i=ae" alt="AFTER" > 
+ </a>
+ 
    <a href="#" style="cursor: pointer;">
  <img src="https://skillicons.dev/icons?i=pr" alt="PREMIER"> 
   </a>
- <a href="#" style="cursor: pointer;">
- <img src="https://skillicons.dev/icons?i=ae" alt="AFTER" > 
   
  <a href="#" style="cursor: pointer;">
 <img src="https://skillicons.dev/icons?i=autocad" alt="autocad"> 
