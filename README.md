@@ -106,6 +106,8 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
    <a href="#" style="cursor: pointer;">
  <img src="https://skillicons.dev/icons?i=unreal" alt="UNREAL"> 
   </a>
+
+  <!--
  <a href="#" style="cursor: pointer;">
  <img src="https://e7.pngegg.com/pngimages/993/910/png-clipart-autodesk-3ds-max-3ds-physx-3d-computer-graphics-others-miscellaneous-angle.png" alt="3dsmax"  width="45" height="45"> 
   </a>
@@ -117,8 +119,8 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
  <img src="https://seeklogo.com/images/L/lumion-3d-logo-948AF388BD-seeklogo.com.png" alt="LUMION" width="45" height="45">
   </a>
 
- 
 </div>
+ -->
 
 ## Certificates
 <div style="display: flex;">
