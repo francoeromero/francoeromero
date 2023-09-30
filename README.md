@@ -1,5 +1,5 @@
 <a href="https://francoeromero.github.io" target="_blank">
-<img src="./img/portada.jpg">
+<img src="./img/zzzz9.jpg">
  </a>
  <h2>Franco E. Romero 🌐
  <a href="https://francoeromero.github.io" target="_blank"> francoeromero.github.io</a>
