@@ -1,3 +1,6 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <a href="https://francoeromero.github.io" target="_blank">
 <img src="./img/zzzz9.jpg">
  </a>
@@ -17,6 +20,13 @@ Currently in my career as a software developer.<br>
 
 Extremely motivated and self-taught to constantly develop my skills and grow professionally. I am looking to master new skills and work in a team with the same goals.<br>
 <!-- I have a [YouTube channel](https://www.youtube.com/channel/UCj8VgHtcox46beRA0DcoPDA/) (in Spanish)  -->
+<!--- snake -->
+<div align="center">
+  <img style='width=120%'  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 
 ## ⚙ Front-End skills
 
