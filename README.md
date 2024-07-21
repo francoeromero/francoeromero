@@ -22,7 +22,7 @@ Extremely motivated and self-taught to constantly develop my skills and grow pro
 <!-- I have a [YouTube channel](https://www.youtube.com/channel/UCj8VgHtcox46beRA0DcoPDA/) (in Spanish)  -->
 <!--- snake -->
 <div align="center">
-  <img style='width=120%'  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img style='width=120%'  src="./svg/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
